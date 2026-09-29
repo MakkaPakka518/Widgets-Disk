@@ -2,6 +2,8 @@
 
 这是一个基于 Cloudflare Workers、KV 和 D1 数据库构建的极简无服务器（Serverless）文件管理与托管系统。无需购买云服务器，利用 Cloudflare 的免费额度即可搭建一个属于你自己的私人文件仓库。
 
+![网页预览图](Web.jpg)
+
 ## ✨ 特性
 
 - **零成本部署**：完全基于 Cloudflare 的免费套餐（Workers + KV + D1）。
