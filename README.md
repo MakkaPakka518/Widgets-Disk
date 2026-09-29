@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠 部署教程 (纯网页免命令行)
+## 🛠 部署教程
 
 ### 准备工作
 注册并登录你的 [Cloudflare](https://dash.cloudflare.com/) 账号。
